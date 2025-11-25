@@ -9,13 +9,15 @@ Branches in this repo (with details):
     06d24f9 | Author: zdumas1 <zdumas1@emich.edu> | Committer: zdumas1 <zdumas1@emich.edu> | Date: 2025-10-08T03:08:29Z | Merge branch 'lab7'
     797597e | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-08T03:08:01Z | Auto-update branch-info.txt
     3b776e9 | Author: zdumas1 <zdumas1@emich.edu> | Committer: zdumas1 <zdumas1@emich.edu> | Date: 2025-10-08T03:07:45Z | Finishing lab7 and all mocks
-- dependabot/github_actions/actions/checkout-5
-  SHA: fb5c3743c9708f3efd76ee36c45e8badad84b783
-  Commits: 3
+- dependabot/github_actions/actions/checkout-6
+  SHA: fab66ea042e022a9ef2686ecaddeb6cfecdbf1f3
+  Commits: 9
   Recent commits:
-    fb5c374 | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-06T15:16:38Z | Bump actions/checkout from 3 to 5
-    239781d | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-06T15:01:02Z | Auto-update branch-info.txt
-    add8afb | Author: Zackery Dumas <zdumas1@emich.edu> | Committer: GitHub <noreply@github.com> | Date: 2025-10-06T11:00:52-04:00 | Initial commit
+    fab66ea | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-11-25T00:03:03Z | Bump actions/checkout from 3 to 6
+    ca00869 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-11-01T23:21:17Z | Auto-update branch-info.txt
+    3040da6 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-08T03:08:42Z | Auto-update branch-info.txt
+    06d24f9 | Author: zdumas1 <zdumas1@emich.edu> | Committer: zdumas1 <zdumas1@emich.edu> | Date: 2025-10-08T03:08:29Z | Merge branch 'lab7'
+    797597e | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-08T03:08:01Z | Auto-update branch-info.txt
 - lab7
   SHA: 3b776e928dad2cac7352a470b259253195ea6dcc
   Commits: 4
@@ -25,11 +27,11 @@ Branches in this repo (with details):
     239781d | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-06T15:01:02Z | Auto-update branch-info.txt
     add8afb | Author: Zackery Dumas <zdumas1@emich.edu> | Committer: GitHub <noreply@github.com> | Date: 2025-10-06T11:00:52-04:00 | Initial commit
 - main
-  SHA: 3040da6468f976d448f89ed68118ebc254036b69
-  Commits: 7
+  SHA: ca008691bbf593b96d947737f4b9648500270eba
+  Commits: 8
   Recent commits:
+    ca00869 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-11-01T23:21:17Z | Auto-update branch-info.txt
     3040da6 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-08T03:08:42Z | Auto-update branch-info.txt
     06d24f9 | Author: zdumas1 <zdumas1@emich.edu> | Committer: zdumas1 <zdumas1@emich.edu> | Date: 2025-10-08T03:08:29Z | Merge branch 'lab7'
     797597e | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-08T03:08:01Z | Auto-update branch-info.txt
     3b776e9 | Author: zdumas1 <zdumas1@emich.edu> | Committer: zdumas1 <zdumas1@emich.edu> | Date: 2025-10-08T03:07:45Z | Finishing lab7 and all mocks
-    88315df | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-06T15:16:48Z | Auto-update branch-info.txt
